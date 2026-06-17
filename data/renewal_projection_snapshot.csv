@@ -1,0 +1,8 @@
+item,category,status,fy_remaining,renewal_date,notes
+GraphPad Prism,software_renewal,needs_order,12500.00,2026-08-01,Annual renewal
+SnapGene,software_renewal,ordered,0.00,2026-07-15,PO already submitted
+MATLAB,one_time_adjustment,planning,3292.99,2026-09-01,True-up adjustment
+COR Course,non_software,planning,650.00,2026-08-20,Training cost
+FlowJo,software_renewal,needs_quote,4800.00,2026-09-15,Quote pending
+Legacy Tool,software_renewal,discontinued,0.00,2026-07-01,No renewal planned
+Image Analysis Suite,software_renewal,needs_order,7200.00,2026-08-30,Shared lab license

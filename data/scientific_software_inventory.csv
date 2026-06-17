@@ -1,0 +1,25 @@
+computer_id,product_name,component_name,publisher,last_used,total_runs,operating_system
+C-001,GraphPad Prism,Prism 10,GraphPad,2026-05-31,42,macOS
+C-002,GraphPad Prism,Prism 9,GraphPad,2026-05-29,18,macOS
+C-003,SnapGene,SnapGene 7,Dotmatics,2026-06-01,35,Windows
+C-004,SnapGene Viewer,SnapGene Viewer,Dotmatics,2026-05-22,9,Windows
+C-005,Fiji,Fiji ImageJ,Open Source,2026-05-30,81,macOS
+C-006,ImageJ,ImageJ,Open Source,2026-04-12,27,Windows
+C-007,RStudio,RStudio Desktop,Posit,2026-05-18,64,macOS
+C-008,R,R 4.4,The R Foundation,2026-05-16,19,macOS
+C-009,PyMOL,PyMOL Molecular Graphics System,Schrodinger,2026-04-29,21,Windows
+C-010,IGV,Integrative Genomics Viewer,Broad Institute,2026-05-04,12,macOS
+C-011,Microsoft Excel,Excel,Microsoft,2026-06-02,140,Windows
+C-012,Google Chrome,Chrome,Google,2026-06-02,310,macOS
+C-013,Microsoft Defender,Defender,Microsoft,2026-06-02,500,Windows
+C-014,Python,Python 3.12,Python Software Foundation,2026-05-20,33,macOS
+C-015,Anaconda Navigator,Anaconda,Anaconda,2026-05-17,24,Windows
+C-016,ApE,A Plasmid Editor,M Wayne Davis,2026-04-19,7,macOS
+C-017,DNASTAR Lasergene,SeqBuilder Pro,DNASTAR,2026-05-12,14,Windows
+C-018,DNASTAR Lasergene,MegAlign Pro,DNASTAR,2026-05-13,16,Windows
+C-019,macOS,Operating System,Apple,2026-06-02,999,macOS
+C-020,Jamf,Management Agent,Jamf,2026-06-02,700,macOS
+C-021,FlowJo,FlowJo 10,BD,2026-05-03,11,macOS
+C-022,Matlab,MATLAB R2025b,MathWorks,2026-05-25,28,Windows
+C-023,Spyder,Spyder IDE,Open Source,2026-05-11,13,Windows
+C-024,Adobe Acrobat,Acrobat Reader,Adobe,2026-06-01,65,Windows
