@@ -39,6 +39,7 @@ Close out with what you used, what changed, what was verified, and what remains 
 - Turn notes into a sanitized handoff or lessons-learned memo.
 - Review a small code or documentation change for risks.
 - Create training examples, synthetic data, and an answer key.
+- Improve a training repo by adding examples, checking links, and writing release notes.
 
 ## What To Watch For
 

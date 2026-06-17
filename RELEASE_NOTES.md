@@ -1,5 +1,13 @@
 # Release Notes
 
+## v0.1.2 - Training Repo As Gallery Example
+
+Updated:
+
+- Added this training repository itself as a first-class task idea.
+- Expanded the task idea catalog with training repo stewardship.
+- Updated the task idea gallery, task triage exercise, participant quickstart, README, and manifest to show repo maintenance as a Codex-assisted workflow.
+
 ## v0.1.1 - Task Idea Catalog Expansion
 
 Added:

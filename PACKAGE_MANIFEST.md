@@ -6,7 +6,7 @@ Codex Training Package for Scientific Staff
 
 ## Version
 
-Initial local package, 2026-06-17.
+Current local package, 2026-06-17.
 
 ## Intended Outcomes
 
@@ -51,3 +51,4 @@ The package uses synthetic data only. The sample files contain invented names, r
 - Keep examples synthetic unless a future trainer has explicit approval to use restricted data.
 - Update dates and tool references before live delivery.
 - Add site- or institute-specific policy language only after review by the relevant data owner.
+- Treat this repository itself as a task-gallery example: curriculum changes should update links, release notes, validation checks, and version tags together.

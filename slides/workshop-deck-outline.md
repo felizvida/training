@@ -25,6 +25,7 @@ Codex for Scientific Staff: Local Evidence, Clear Outputs, Reproducible Work
 - Local data refreshes
 - Documentation and runbooks
 - Code review and testing
+- Training repo maintenance
 - Lessons learned
 
 ## Slide 5: Task Idea Gallery
@@ -35,6 +36,7 @@ Codex for Scientific Staff: Local Evidence, Clear Outputs, Reproducible Work
 - Verify
 - Automate
 - Handoff
+- Maintain this training repo
 
 ## Slide 6: Pick A Good Candidate Task
 
@@ -81,6 +83,8 @@ Paths, commands, outputs, validation status, caveats, next actions.
 ## Slide 14: Exercise 5
 
 Task triage: choose one real staff task and turn it into a safe Codex prompt.
+
+Use this training repo itself as one example: update a module, add a task idea, verify links, and publish release notes.
 
 ## Slide 15: Capstone
 

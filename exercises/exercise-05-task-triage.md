@@ -22,6 +22,7 @@ Example tasks:
 - Build a restart handoff for a project.
 - Review a code or documentation change for risk.
 - Create synthetic data and an answer key for a training session.
+- Improve this training repo by adding a new task idea, exercise, checklist, or release note.
 
 For each task, fill in:
 
@@ -48,4 +49,4 @@ What not to assume:
 - Which task needs the strongest privacy boundary?
 - Which task needs live or current verification?
 - Which task should become a documented workflow?
-
+- How could this training repository itself be used as the practice task?

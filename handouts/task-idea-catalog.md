@@ -32,6 +32,18 @@ Codex is most useful when a task has:
 | App usability polish | Improve feedback, dirty-state cues, navigation, or result surfacing in an internal tool | UI changes, docs, tests | Browser smoke, Playwright, screenshots |
 | Feature discovery | Study a comparator product or user request, cluster desired capabilities, and map them to repo surfaces | Feature map, implementation plan | Source citations, repo surface audit |
 | Training material creation | Build exercises, rubrics, synthetic data, and facilitator notes from real workflow patterns | Training package | Link checks, privacy review, instructor answer key |
+| Training repo stewardship | Maintain a training repository like this one by adding task examples, updating modules, checking links, tagging releases, and publishing notes | Repo update, release notes, tagged release | Markdown link check, privacy scan, git status, release verification |
+
+## This Repo Is An Example
+
+This training repository itself belongs in the idea gallery. It models a Codex-assisted task where the input is a set of recurring work patterns, the output is a reusable training package, and the verification includes link checks, privacy review, release notes, commits, tags, and GitHub releases.
+
+Example prompt:
+
+```text
+Inspect this training repo and update it for a new audience or training need.
+Keep the examples synthetic, preserve privacy boundaries, update the relevant modules and handouts, run link and boilerplate checks, then commit, tag, and publish a release note.
+```
 
 ## Task Ideas By Staff Role
 
@@ -42,6 +54,7 @@ Codex is most useful when a task has:
 | Data steward | Refresh workflows, normalization checks, privacy reviews, data dictionaries |
 | Informatics staff | Repo runbooks, tests, CI, app polish, bug triage, release notes |
 | Training coordinator | Scenario cards, synthetic exercises, answer keys, participant handouts |
+| Training repo maintainer | Curriculum updates, idea-gallery expansion, release notes, link checks, versioned releases |
 | Operations liaison | Lessons learned, governance memos, handoffs, unresolved-risk registers |
 
 ## The Task Maturity Ladder
@@ -98,4 +111,3 @@ Each trainee should leave with at least three task ideas from their own work:
 1. A low-risk summary task.
 2. A recurring workflow or verification task.
 3. A durable documentation or handoff task.
-
