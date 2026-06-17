@@ -46,7 +46,14 @@ Codex for Scientific Staff: Local Evidence, Clear Outputs, Reproducible Work
 - Verification is possible
 - Human owner can review the result
 
-## Slide 7: Prompt Anatomy
+## Slide 7: Anchor Experiences First
+
+- Scientific inventory and reconciliation
+- Local refreshes, renewals, workflow status
+- Identity caveats, app/test work, handoffs, lessons learned
+- Other staff/researcher ideas are brief context only
+
+## Slide 8: Prompt Anatomy
 
 - Workspace
 - Goal
@@ -56,36 +63,36 @@ Codex for Scientific Staff: Local Evidence, Clear Outputs, Reproducible Work
 - Verification
 - Close-out
 
-## Slide 8: Privacy Boundary
+## Slide 9: Privacy Boundary
 
 Source data may be detailed. Shared outputs should usually be aggregate or sanitized.
 
-## Slide 9: Exercise 1
+## Slide 10: Exercise 1
 
 Scientific software inventory from synthetic data.
 
-## Slide 10: Evidence Review
+## Slide 11: Evidence Review
 
 Ask: what columns, grouping rules, and exclusions did Codex use?
 
-## Slide 11: Local-First Workflows
+## Slide 12: Local-First Workflows
 
 Repo docs, scripts, local databases, approved systems, public web only as fallback.
 
-## Slide 12: Verification
+## Slide 13: Verification
 
 Tests, scripts, checks, screenshots, output totals, current workflow state.
 
-## Slide 13: Handoffs
+## Slide 14: Handoffs
 
 Paths, commands, outputs, validation status, caveats, next actions.
 
-## Slide 14: Exercise 5
+## Slide 15: Exercise 5
 
 Task triage: choose one real staff task and turn it into a safe Codex prompt.
 
 Use this training repo itself as one example: update a module, add a task idea, verify links, and publish release notes.
 
-## Slide 15: Capstone
+## Slide 16: Capstone
 
 Complete one task with source grounding, privacy, verification, and handoff.

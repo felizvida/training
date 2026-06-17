@@ -14,6 +14,7 @@ Participants should leave able to:
 
 - Ask Codex to inspect local evidence before answering.
 - Identify which scientific-staff tasks are good candidates for Codex assistance.
+- Briefly recognize additional ways scientific staff and researchers can use Codex, while keeping the training anchored on the package owner's project patterns.
 - Shape messy scientific-support data into concise, source-grounded summaries.
 - Keep private source details out of shared outputs.
 - Use repo runbooks, scripts, and verification steps instead of ad hoc methods.

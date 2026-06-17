@@ -1,5 +1,16 @@
 # Release Notes
 
+## v0.1.3 - Experience-Anchored Task Ideas
+
+Added:
+
+- Dedicated anchor section naming the package owner's core project patterns as the basis for the training.
+- Brief informational examples for other scientific staff and researcher uses.
+
+Updated:
+
+- Task idea gallery, task triage exercise, README, manifest, slide outline, and release notes so other staff/researcher ideas stay secondary to the anchored examples.
+
 ## v0.1.2 - Training Repo As Gallery Example
 
 Updated:

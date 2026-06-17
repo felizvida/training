@@ -57,6 +57,34 @@ Keep the examples synthetic, preserve privacy boundaries, update the relevant mo
 | Training repo maintainer | Curriculum updates, idea-gallery expansion, release notes, link checks, versioned releases |
 | Operations liaison | Lessons learned, governance memos, handoffs, unresolved-risk registers |
 
+## Anchor Experiences For This Training
+
+This training is anchored on concrete project patterns from the package owner's work. These are the examples facilitators should return to first:
+
+- Scientific software inventory and family-collapsed summaries.
+- Multi-source reconciliation and "what new evidence did we learn?" comparisons.
+- Local data refreshes with documented import, rebuild, and verification steps.
+- Renewal planning that separates true action items from adjustments and non-software costs.
+- Workflow status checks grounded in actual run state, commits, or artifacts.
+- Local-first identity or role lookup with unresolved cases kept explicit.
+- App usability, testing, CI, and documentation improvements.
+- Restart handoffs, source memos, release notes, and this training repo's own maintenance.
+
+## Brief Additional Ideas For Scientific Staff And Researchers
+
+These are for information only. Use them as quick inspiration after the anchored examples above, not as the center of the training.
+
+| Situation | Possible Codex help | Keep in mind |
+| --- | --- | --- |
+| Research planning | Turn a broad question into a workplan, assumptions list, and data-needs checklist | Human owner decides scientific direction |
+| Result review | Summarize local result tables or QC reports and list questions for follow-up | Treat this as triage, not interpretation |
+| Reproducible analysis | Document scripts, commands, parameters, inputs, and outputs | Verify against actual files and logs |
+| Protocol support | Convert an approved protocol into a checklist or training quiz | Do not invent protocol steps |
+| Manuscript support | Draft methods notes, figure legends, or reviewer-response matrices from approved materials | Expert review is required |
+| Collaboration handoff | Summarize current state, file locations, open questions, and next decisions | Keep sensitive details out unless authorized |
+
+For research use, Codex should help organize, check, document, and draft. Scientific interpretation, clinical judgment, authorship decisions, and policy decisions still belong to qualified humans.
+
 ## The Task Maturity Ladder
 
 1. **Summarize:** "Inspect this local file and summarize what matters."

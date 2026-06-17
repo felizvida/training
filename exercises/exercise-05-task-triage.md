@@ -23,6 +23,7 @@ Example tasks:
 - Review a code or documentation change for risk.
 - Create synthetic data and an answer key for a training session.
 - Improve this training repo by adding a new task idea, exercise, checklist, or release note.
+- For information only: adapt the same pattern to a research workplan, QC checklist, reproducible runbook, protocol checklist, or collaboration handoff.
 
 For each task, fill in:
 

@@ -20,6 +20,7 @@ Ask participants to mark:
 - One task that would need a privacy boundary.
 - One task that would need verification before sharing.
 - One task that should become a repeatable workflow.
+- One task from the dedicated scientific staff and researchers section.
 
 ## Example Categories
 
@@ -36,6 +37,18 @@ Ask participants to mark:
 | Training repo stewardship | "Use this training repo itself as a Codex-assisted example: update modules, add exercises, verify links, and publish a release." |
 | Documentation | "Create a restart note with commands, paths, checks, and caveats." |
 | Lessons learned | "Write a short sanitized memo that preserves the durable lesson." |
+
+## Anchor Experiences First
+
+Make clear that the training is built from the package owner's actual project patterns. The core examples are:
+
+- Scientific inventory and source reconciliation.
+- Local refresh workflows and renewal planning.
+- Workflow status checks and ranking comparisons.
+- Local-first identity lookup and unresolved-case handling.
+- App testing, documentation, handoffs, source memos, and training repo maintenance.
+
+Then mention the brief additional scientific staff and researcher ideas as information only. Do not let those examples displace the anchored project patterns.
 
 ## Activity: Task Triage
 
