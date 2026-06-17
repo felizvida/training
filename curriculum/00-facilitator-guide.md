@@ -8,6 +8,7 @@ By the end of the session, participants should be able to use Codex to perform a
 
 Participants will practice how to:
 
+- Recognize which scientific-staff tasks are good candidates for Codex assistance.
 - Frame a task with enough context for Codex to act safely.
 - Ask Codex to inspect local files, repo docs, scripts, and outputs before making claims.
 - Convert messy scientific-support data into ranked, readable summaries.
@@ -22,7 +23,7 @@ Participants will practice how to:
 | Time | Segment |
 | --- | --- |
 | 0:00-0:10 | What Codex is good at for scientific staff |
-| 0:10-0:20 | Prompt patterns and privacy boundaries |
+| 0:10-0:20 | Task idea gallery and prompt patterns |
 | 0:20-0:45 | Exercise 1: scientific software inventory |
 | 0:45-0:55 | Share outputs and critique evidence |
 | 0:55-1:00 | Wrap-up checklist |
@@ -32,14 +33,15 @@ Participants will practice how to:
 | Time | Segment |
 | --- | --- |
 | 0:00-0:20 | Operating model |
-| 0:20-0:50 | Source-grounded analysis |
-| 0:50-1:25 | Exercise 1: scientific software inventory |
-| 1:25-1:35 | Break |
-| 1:35-2:05 | Privacy and local data boundaries |
-| 2:05-2:40 | Exercise 2: renewal snapshot |
-| 2:40-3:10 | Repo workflows and verification |
-| 3:10-3:40 | Exercise 3 or 4 |
-| 3:40-4:00 | Capstone review with rubric |
+| 0:20-0:45 | Task idea gallery |
+| 0:45-1:15 | Source-grounded analysis |
+| 1:15-1:50 | Exercise 1: scientific software inventory |
+| 1:50-2:00 | Break |
+| 2:00-2:30 | Privacy and local data boundaries |
+| 2:30-3:00 | Exercise 2: renewal snapshot |
+| 3:00-3:25 | Repo workflows and verification |
+| 3:25-3:45 | Exercise 5: task triage |
+| 3:45-4:00 | Capstone review with rubric |
 
 ## Instructor Setup
 
@@ -76,6 +78,7 @@ Inspect the CSV in data/scientific_software_inventory.csv. Create a ranked summa
 ## Materials Checklist
 
 - [ ] Slide outline or local deck
+- [ ] Task-idea catalog
 - [ ] Prompt-pattern handout
 - [ ] Privacy and verification checklist
 - [ ] Synthetic CSV files
@@ -90,4 +93,4 @@ Inspect the CSV in data/scientific_software_inventory.csv. Create a ranked summa
 - Was the answer appropriately concise for the audience?
 - What would need to be verified before sharing the result?
 - What should be documented for a future handoff?
-
+- What is one real task participants can safely try next week?

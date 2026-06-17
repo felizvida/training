@@ -4,6 +4,7 @@ Use this rubric for exercises or a capstone task.
 
 | Criterion | Excellent | Developing | Needs Work |
 | --- | --- | --- | --- |
+| Task selection | Chooses a realistic Codex-assisted task with clear input, output, privacy risk, and verification path | Task is plausible but missing one major boundary | Task is too vague, unauthorized, or unverifiable |
 | Task framing | Names source, audience, output, constraints, and verification | Names source and output but misses some constraints | Vague prompt with unclear goal |
 | Source grounding | Identifies files, columns, scripts, or outputs used | Mentions source file only | Makes claims without evidence |
 | Privacy | Keeps output sanitized or aggregate-only and states boundary | Avoids obvious identifiers but omits boundary | Leaks row-level or sensitive details |
@@ -24,9 +25,9 @@ Inspect the source file, produce a concise staff-facing output, keep privacy bou
 A participant passes if another person can understand:
 
 - What was asked.
+- Why the task was suitable for Codex.
 - What evidence was used.
 - What output was produced.
 - What privacy boundary was applied.
 - What was verified.
 - What remains uncertain.
-

@@ -13,6 +13,7 @@ Initial local package, 2026-06-17.
 Participants should leave able to:
 
 - Ask Codex to inspect local evidence before answering.
+- Identify which scientific-staff tasks are good candidates for Codex assistance.
 - Shape messy scientific-support data into concise, source-grounded summaries.
 - Keep private source details out of shared outputs.
 - Use repo runbooks, scripts, and verification steps instead of ad hoc methods.
@@ -29,8 +30,10 @@ Participants should leave able to:
 | [curriculum/03-local-data-privacy.md](curriculum/03-local-data-privacy.md) | Privacy and source-boundary training |
 | [curriculum/04-repo-workflows-verification.md](curriculum/04-repo-workflows-verification.md) | Repo-aware workflows and verification |
 | [curriculum/05-communication-handoffs.md](curriculum/05-communication-handoffs.md) | Status reports, restart notes, lessons learned |
+| [curriculum/06-task-idea-gallery.md](curriculum/06-task-idea-gallery.md) | Task examples and task-selection activity |
 | [handouts/participant-quickstart.md](handouts/participant-quickstart.md) | One-page participant reference |
 | [handouts/prompt-patterns.md](handouts/prompt-patterns.md) | Reusable prompt recipes |
+| [handouts/task-idea-catalog.md](handouts/task-idea-catalog.md) | Concrete Codex-assisted task ideas by work type and staff role |
 | [handouts/privacy-and-verification-checklist.md](handouts/privacy-and-verification-checklist.md) | Pre-share checklist |
 | [exercises/](exercises) | Hands-on practice activities |
 | [templates/](templates) | Handoff, verification, and source memo templates |

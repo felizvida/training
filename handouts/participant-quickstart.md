@@ -30,6 +30,16 @@ Close out with what you used, what changed, what was verified, and what remains 
 - How current the answer needs to be.
 - What counts as done.
 
+## Good First Tasks
+
+- Summarize a local CSV or spreadsheet into an aggregate table.
+- Compare two snapshots and explain what changed.
+- Separate renewal or action items from planning adjustments.
+- Check the actual status of a workflow or job.
+- Turn notes into a sanitized handoff or lessons-learned memo.
+- Review a small code or documentation change for risks.
+- Create training examples, synthetic data, and an answer key.
+
 ## What To Watch For
 
 - Generic summaries that do not cite the local evidence.
@@ -44,4 +54,3 @@ Close out with what you used, what changed, what was verified, and what remains 
 Before answering, tell me which files, columns, or scripts you are relying on.
 If the evidence is missing or ambiguous, say that explicitly.
 ```
-

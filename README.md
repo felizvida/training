@@ -25,6 +25,8 @@ Use:
 
 - [curriculum/00-facilitator-guide.md](curriculum/00-facilitator-guide.md)
 - [curriculum/01-codex-operating-model.md](curriculum/01-codex-operating-model.md)
+- [curriculum/06-task-idea-gallery.md](curriculum/06-task-idea-gallery.md)
+- [handouts/task-idea-catalog.md](handouts/task-idea-catalog.md)
 - [handouts/prompt-patterns.md](handouts/prompt-patterns.md)
 - [handouts/privacy-and-verification-checklist.md](handouts/privacy-and-verification-checklist.md)
 - [exercises/exercise-01-scientific-inventory.md](exercises/exercise-01-scientific-inventory.md)
@@ -37,8 +39,9 @@ Use the full package:
 - Source-grounded analysis
 - Local data and privacy
 - Repo workflows and verification
+- Task idea gallery and task triage
 - Communication, handoffs, and lessons learned
-- Four practical exercises
+- Five practical exercises plus a capstone
 - Assessment rubric
 
 ### Train-the-trainer session
@@ -74,3 +77,6 @@ Teach Codex as a thinking partner with a paper trail. The best staff workflows s
 
 The point is not to make staff memorize commands. The point is to help them ask for work in a way that produces inspectable, reproducible, and scientifically useful results.
 
+## Task-Idea Emphasis
+
+Trainees should leave with a concrete sense of what Codex can help with in their own work. Use [handouts/task-idea-catalog.md](handouts/task-idea-catalog.md) and [exercises/exercise-05-task-triage.md](exercises/exercise-05-task-triage.md) to move beyond generic writing prompts into practical staff workflows: scientific software summaries, snapshot comparisons, renewal planning, local data refreshes, workflow status checks, identity-resolution caveats, app and test improvements, restart handoffs, and sanitized lessons learned.
