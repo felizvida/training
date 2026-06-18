@@ -2,6 +2,10 @@
 
 Time: 1 hour
 
+Navigation: [Track home](README.md) | Previous: [Unit 4](unit-04-reconciliation-renewals.md) | Next: [Unit 6](unit-06-identity-uncertainty.md)
+
+Portfolio section: Unit 5
+
 ## Goal
 
 Learn how to ask Codex for status reports and workflow work that is grounded in actual evidence.

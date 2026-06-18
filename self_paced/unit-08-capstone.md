@@ -2,6 +2,10 @@
 
 Time: 1 hour
 
+Navigation: [Track home](README.md) | Previous: [Unit 7](unit-07-handoffs-lessons-repo-stewardship.md)
+
+Portfolio section: Unit 8
+
 ## Goal
 
 Build a final Codex-ready task package grounded in your own work or in a synthetic training scenario.
@@ -60,4 +64,3 @@ A completed [portfolio-template.md](portfolio-template.md).
 - Does it include what Codex should not assume?
 - Does it specify verification?
 - Could another person continue from the handoff?
-

@@ -2,6 +2,10 @@
 
 Time: 1 hour
 
+Navigation: [Track home](README.md) | Previous: [Unit 1](unit-01-orientation-task-selection.md) | Next: [Unit 3](unit-03-privacy-safe-outputs.md)
+
+Portfolio section: Unit 2
+
 ## Goal
 
 Create an aggregate scientific software summary from synthetic inventory data.
@@ -15,6 +19,8 @@ This unit models scientific software inventory work: remove common software nois
 - [../data/scientific_software_inventory.csv](../data/scientific_software_inventory.csv)
 - [../exercises/exercise-01-scientific-inventory.md](../exercises/exercise-01-scientific-inventory.md)
 - [../assessment/instructor-answer-key.md](../assessment/instructor-answer-key.md)
+
+Use the answer key only after drafting your own summary.
 
 ## 60-Minute Plan
 
@@ -53,4 +59,3 @@ An aggregate table with:
 - Did it avoid showing computer IDs?
 - Did it exclude common noise?
 - Did it preserve uncertain classification choices?
-

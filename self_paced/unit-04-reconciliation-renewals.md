@@ -2,6 +2,10 @@
 
 Time: 1 hour
 
+Navigation: [Track home](README.md) | Previous: [Unit 3](unit-03-privacy-safe-outputs.md) | Next: [Unit 5](unit-05-workflows-status-verification.md)
+
+Portfolio section: Unit 4
+
 ## Goal
 
 Answer comparison and renewal questions without mixing categories or overstating conclusions.
@@ -18,6 +22,8 @@ This unit combines two recurring patterns:
 - [../data/renewal_projection_snapshot.csv](../data/renewal_projection_snapshot.csv)
 - [../exercises/exercise-02-renewal-snapshot.md](../exercises/exercise-02-renewal-snapshot.md)
 - [../assessment/instructor-answer-key.md](../assessment/instructor-answer-key.md)
+
+Use the answer key only after drafting your own renewal answer.
 
 ## 60-Minute Plan
 
@@ -52,4 +58,3 @@ A concise renewal answer with:
 - Did you state what was excluded?
 - Did you verify the subtotal?
 - Did you preserve caveats?
-

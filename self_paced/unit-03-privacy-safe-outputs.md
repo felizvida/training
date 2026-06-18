@@ -2,6 +2,10 @@
 
 Time: 1 hour
 
+Navigation: [Track home](README.md) | Previous: [Unit 2](unit-02-source-grounded-inventory.md) | Next: [Unit 4](unit-04-reconciliation-renewals.md)
+
+Portfolio section: Unit 3
+
 ## Goal
 
 Learn how to separate sensitive source data from safe, shareable outputs.
@@ -51,4 +55,3 @@ A privacy boundary note with:
 - Did you avoid row-level details?
 - Did you state when restricted review would be needed?
 - Did you record the privacy boundary in the portfolio?
-

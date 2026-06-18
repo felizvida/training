@@ -4,6 +4,7 @@ Use this before marking the 8-unit tutorial complete.
 
 ## Required Deliverables
 
+- [ ] Progress tracker completed.
 - [ ] Unit 1 task inventory completed.
 - [ ] Unit 2 aggregate scientific software summary completed.
 - [ ] Unit 3 privacy and verification checklist completed.
@@ -28,4 +29,3 @@ Use this before marking the 8-unit tutorial complete.
 - [ ] No real names, emails, hostnames, or device IDs unless explicitly authorized for a restricted audience.
 - [ ] Synthetic data is clearly synthetic.
 - [ ] Any real-work follow-up is labeled as needing local authorization and human review.
-

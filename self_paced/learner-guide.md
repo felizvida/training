@@ -18,6 +18,16 @@ Each unit is designed for 60 minutes:
 | 40-50 min | Review output against the checklist |
 | 50-60 min | Save the unit deliverable and reflection |
 
+## Before Unit 1
+
+Open these three files:
+
+- [README.md](README.md)
+- [portfolio-template.md](portfolio-template.md)
+- [progress-tracker.md](progress-tracker.md)
+
+The portfolio is where your final work goes. The progress tracker is your quick view of what remains.
+
 ## If You Have Codex Access
 
 Use the starter prompts directly, but ask Codex to inspect files before answering. Keep each final response concise and evidence-grounded.
@@ -39,6 +49,10 @@ You can still complete the tutorial. For each unit:
 - Keep the anchored project patterns at the center of the work.
 - Verify before claiming success.
 
+## If You Adapt This To Real Work
+
+Use a sanitized description first. Do not paste private data, real identifiers, exports from restricted systems, or unpublished scientific details unless you have permission and a clear audience boundary.
+
 ## Self-Paced Support Pattern
 
 When stuck, ask:
@@ -49,4 +63,3 @@ When stuck, ask:
 - What privacy boundary applies?
 - What would prove the answer is good enough?
 - What should a future person need to continue?
-

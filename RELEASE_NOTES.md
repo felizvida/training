@@ -1,5 +1,16 @@
 # Release Notes
 
+## v0.2.1 - Self-Paced Usability Polish
+
+Added:
+
+- Progress tracker for the 8-unit self-paced tutorial.
+- Quick-start and answer-key guidance for learners.
+
+Updated:
+
+- Learner guide, completion checklist, and package manifest for clearer self-paced navigation and completion flow.
+
 ## v0.2.0 - Complete Self-Paced Tutorial Modality
 
 Added:

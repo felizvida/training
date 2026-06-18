@@ -20,6 +20,7 @@ Send:
 - [README.md](README.md)
 - [learner-guide.md](learner-guide.md)
 - [portfolio-template.md](portfolio-template.md)
+- [progress-tracker.md](progress-tracker.md)
 - [completion-checklist.md](completion-checklist.md)
 
 Tell learners to keep outputs synthetic or sanitized.
@@ -45,4 +46,3 @@ Use [../assessment/rubric.md](../assessment/rubric.md) plus these self-paced cri
 ## Completion Artifact
 
 Ask learners to submit one completed [portfolio-template.md](portfolio-template.md). It should not contain sensitive source data.
-

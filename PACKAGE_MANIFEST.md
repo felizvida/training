@@ -41,6 +41,7 @@ Participants should leave able to:
 | [self_paced/learner-guide.md](self_paced/learner-guide.md) | Learner instructions for asynchronous completion |
 | [self_paced/facilitator-admin-guide.md](self_paced/facilitator-admin-guide.md) | Admin guide for asynchronous cohorts |
 | [self_paced/portfolio-template.md](self_paced/portfolio-template.md) | Portfolio artifact for tutorial completion |
+| [self_paced/progress-tracker.md](self_paced/progress-tracker.md) | Lightweight learner progress dashboard |
 | [self_paced/completion-checklist.md](self_paced/completion-checklist.md) | Completion and shareability checklist |
 | [templates/](templates) | Handoff, verification, and source memo templates |
 | [assessment/rubric.md](assessment/rubric.md) | Evaluation rubric |

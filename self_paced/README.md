@@ -15,6 +15,17 @@ It is anchored on the package owner's project patterns:
 
 Brief examples for other scientific staff and researchers appear only as optional context.
 
+## Quick Start
+
+1. Read [learner-guide.md](learner-guide.md).
+2. Open [portfolio-template.md](portfolio-template.md) and [progress-tracker.md](progress-tracker.md).
+3. Start with [Unit 1](unit-01-orientation-task-selection.md).
+4. Spend about one hour per unit.
+5. Add each unit deliverable to the portfolio before moving on.
+6. Use [completion-checklist.md](completion-checklist.md) at the end.
+
+The tutorial is designed so a learner never needs to guess the next step: each unit lists materials, a 60-minute plan, a starter prompt, a deliverable, and a self-check.
+
 ## Who This Is For
 
 Learners can complete the tutorial alone, with or without an instructor present. No programming experience is required, though Units 5, 7, and 8 introduce repo-aware habits.
@@ -47,7 +58,12 @@ If a learner does not have live Codex access, they can still complete the tutori
 2. Complete units in order.
 3. Save each unit deliverable in a personal notes file or local folder.
 4. Use [portfolio-template.md](portfolio-template.md) to collect final artifacts.
-5. Use [completion-checklist.md](completion-checklist.md) before marking the tutorial complete.
+5. Use [progress-tracker.md](progress-tracker.md) to track units.
+6. Use [completion-checklist.md](completion-checklist.md) before marking the tutorial complete.
+
+## Answer Key Guidance
+
+Units 2, 4, and 6 refer to [../assessment/instructor-answer-key.md](../assessment/instructor-answer-key.md). Try the exercise first, then use the answer key as a self-check. The goal is not exact wording; the goal is evidence use, privacy, grouping logic, and uncertainty handling.
 
 ## Completion Standard
 

@@ -2,6 +2,10 @@
 
 Time: 1 hour
 
+Navigation: [Track home](README.md) | Next: [Unit 2](unit-02-source-grounded-inventory.md)
+
+Portfolio section: Unit 1
+
 ## Goal
 
 Learn what kinds of tasks Codex can assist with and choose a safe first task.
@@ -45,4 +49,3 @@ Complete the Unit 1 section of [portfolio-template.md](portfolio-template.md).
 - Did each task include input, output, privacy, and verification?
 - Did you choose a task grounded in local evidence?
 - Did you avoid live systems or sensitive data unless authorized?
-

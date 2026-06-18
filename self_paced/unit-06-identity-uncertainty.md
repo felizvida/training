@@ -2,6 +2,10 @@
 
 Time: 1 hour
 
+Navigation: [Track home](README.md) | Previous: [Unit 5](unit-05-workflows-status-verification.md) | Next: [Unit 7](unit-07-handoffs-lessons-repo-stewardship.md)
+
+Portfolio section: Unit 6
+
 ## Goal
 
 Practice answering identity or role questions without forcing weak matches.
@@ -15,6 +19,8 @@ This unit models local-first identity resolution: use local cache evidence first
 - [../data/identity_lookup_samples.csv](../data/identity_lookup_samples.csv)
 - [../exercises/exercise-03-identity-lookup.md](../exercises/exercise-03-identity-lookup.md)
 - [../assessment/instructor-answer-key.md](../assessment/instructor-answer-key.md)
+
+Use the answer key only after drafting your own role-resolution answer.
 
 ## 60-Minute Plan
 
@@ -51,4 +57,3 @@ A role-resolution table with:
 - Did you keep history separate from current role?
 - Did you avoid forcing ambiguous aliases?
 - Did you explicitly mark unresolved cases?
-

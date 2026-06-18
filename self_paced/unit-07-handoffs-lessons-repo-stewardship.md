@@ -2,6 +2,10 @@
 
 Time: 1 hour
 
+Navigation: [Track home](README.md) | Previous: [Unit 6](unit-06-identity-uncertainty.md) | Next: [Unit 8](unit-08-capstone.md)
+
+Portfolio section: Unit 7
+
 ## Goal
 
 Create a reusable handoff or source memo, and understand this training repo as a Codex-assisted work product.
@@ -50,4 +54,3 @@ One of:
 - Are paths and checks specific?
 - Are privacy boundaries explicit?
 - Are open issues separated from completed work?
-
