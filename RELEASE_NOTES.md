@@ -1,5 +1,16 @@
 # Release Notes
 
+## v0.2.2 - Self-Paced Motivation Pass
+
+Added:
+
+- Unit-level "Why This Matters" sections to make each hour feel purposeful.
+- Unit-level "Finish Line" sections so learners know what satisfying completion looks like.
+
+Updated:
+
+- Self-paced README now explains the unit experience pattern.
+
 ## v0.2.1 - Self-Paced Usability Polish
 
 Added:

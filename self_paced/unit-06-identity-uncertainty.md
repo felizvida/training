@@ -14,6 +14,10 @@ Practice answering identity or role questions without forcing weak matches.
 
 This unit models local-first identity resolution: use local cache evidence first, keep historical notes separate from current fields, and mark unresolved or ambiguous records explicitly.
 
+## Why This Matters
+
+People and roles deserve careful handling. This unit teaches you to resist the tempting but dangerous move of forcing a match when the evidence is weak.
+
 ## Materials
 
 - [../data/identity_lookup_samples.csv](../data/identity_lookup_samples.csv)
@@ -50,6 +54,10 @@ A role-resolution table with:
 - Current responsible party if supported.
 - Evidence field.
 - Caveat or unresolved status.
+
+## Finish Line
+
+You are done when your answer is useful without pretending to know more than the source supports. The satisfying result is a table that is both helpful and honest.
 
 ## Self-Check
 

@@ -14,6 +14,10 @@ Create a reusable handoff or source memo, and understand this training repo as a
 
 This unit models durable restart notes, GitHub-safe source memos, release notes, and the training repository's own maintenance as a legitimate Codex task.
 
+## Why This Matters
+
+Good work should survive the end of a chat, a meeting, or a week away. This unit turns completed work into something another person, or a future Codex thread, can pick up without archaeology.
+
 ## Materials
 
 - [../curriculum/05-communication-handoffs.md](../curriculum/05-communication-handoffs.md)
@@ -47,6 +51,10 @@ One of:
 - Restart handoff.
 - Source memo.
 - Training repo stewardship note.
+
+## Finish Line
+
+You are done when your note lets someone continue without asking you to reconstruct the whole story. The satisfying result is a clean handoff that makes future work easier.
 
 ## Self-Check
 

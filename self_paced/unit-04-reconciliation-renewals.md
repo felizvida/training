@@ -17,6 +17,10 @@ This unit combines two recurring patterns:
 - Ask "what new evidence do we learn?" when comparing sources.
 - Separate true renewal/order items from one-time adjustments, discontinued items, and non-software costs.
 
+## Why This Matters
+
+These are the kinds of questions where a plausible answer can still be wrong. This unit teaches you to keep categories separate so a decision-maker can see the real action items instead of a muddy total.
+
 ## Materials
 
 - [../data/renewal_projection_snapshot.csv](../data/renewal_projection_snapshot.csv)
@@ -51,6 +55,10 @@ A concise renewal answer with:
 - Excluded categories.
 - Source artifact.
 - Verification calculation.
+
+## Finish Line
+
+You are done when the answer separates "what we need to act on" from "what belongs in context only." The satisfying result is a small table that prevents a costly misunderstanding.
 
 ## Self-Check
 

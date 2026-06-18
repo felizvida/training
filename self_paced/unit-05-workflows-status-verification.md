@@ -14,6 +14,10 @@ Learn how to ask Codex for status reports and workflow work that is grounded in 
 
 This unit models local refresh and workflow-status work: inspect the repo, follow existing scripts or runbooks, and report actual state rather than inferring success.
 
+## Why This Matters
+
+Status reports are only useful when they are grounded in evidence. This unit trains the habit of checking the actual files, scripts, outputs, or run state before saying something is done.
+
 ## Materials
 
 - [../curriculum/04-repo-workflows-verification.md](../curriculum/04-repo-workflows-verification.md)
@@ -49,6 +53,10 @@ A status report with:
 - Validation or checks.
 - Gaps or risks.
 - Next action.
+
+## Finish Line
+
+You are done when your status report can answer: "What did I check, what is true right now, and what should happen next?" That is the moment a vague update becomes operationally useful.
 
 ## Self-Check
 

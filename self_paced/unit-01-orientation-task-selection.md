@@ -14,6 +14,10 @@ Learn what kinds of tasks Codex can assist with and choose a safe first task.
 
 The training is built from recurring project patterns: scientific software summaries, snapshot comparisons, local refresh workflows, renewal planning, workflow status checks, identity caveats, app/test work, handoffs, and training repo maintenance.
 
+## Why This Matters
+
+The best Codex work starts before the prompt. In this unit, you turn "maybe AI can help" into a short list of concrete, safe, evidence-backed tasks. That makes the rest of the tutorial feel grounded in real work instead of abstract tool practice.
+
 ## Materials
 
 - [../handouts/participant-quickstart.md](../handouts/participant-quickstart.md)
@@ -42,6 +46,10 @@ Keep broader researcher examples brief and secondary.
 ## Deliverable
 
 Complete the Unit 1 section of [portfolio-template.md](portfolio-template.md).
+
+## Finish Line
+
+You are done when you have three realistic task ideas and one best first task that feels safe, useful, and small enough to try. This is your first win: you now have a personal map for where Codex can help.
 
 ## Self-Check
 

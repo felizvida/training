@@ -14,6 +14,10 @@ Learn how to separate sensitive source data from safe, shareable outputs.
 
 This unit models the boundary that source files can contain detailed people, device, or operational fields, while generated outputs should usually be aggregate, sanitized, or explicitly restricted.
 
+## Why This Matters
+
+Good Codex work protects trust. This unit helps you feel the difference between what Codex may inspect under an appropriate local boundary and what should appear in a shared output.
+
 ## Materials
 
 - [../handouts/privacy-and-verification-checklist.md](../handouts/privacy-and-verification-checklist.md)
@@ -48,6 +52,10 @@ A privacy boundary note with:
 - Output fields that are safe to share.
 - Fields to omit or aggregate.
 - Verification or review needed before sharing.
+
+## Finish Line
+
+You are done when you can explain, in plain language, what the source may contain, what the final output may show, and what should stay out. That clarity is the safety rail for every later unit.
 
 ## Self-Check
 

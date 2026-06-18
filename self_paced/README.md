@@ -26,6 +26,8 @@ Brief examples for other scientific staff and researchers appear only as optiona
 
 The tutorial is designed so a learner never needs to guess the next step: each unit lists materials, a 60-minute plan, a starter prompt, a deliverable, and a self-check.
 
+Each unit also includes a short "Why This Matters" and "Finish Line" section. These are there to make the work feel purposeful: every hour should end with a concrete artifact and a clear sense of progress.
+
 ## Who This Is For
 
 Learners can complete the tutorial alone, with or without an instructor present. No programming experience is required, though Units 5, 7, and 8 introduce repo-aware habits.

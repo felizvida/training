@@ -21,6 +21,10 @@ The capstone brings together the full pattern:
 5. Verify the work.
 6. Leave a handoff.
 
+## Why This Matters
+
+This is where the tutorial becomes your operating pattern. Instead of leaving with isolated exercises, you leave with a complete Codex-ready task package you can adapt to real work.
+
 ## Materials
 
 - [portfolio-template.md](portfolio-template.md)
@@ -56,6 +60,10 @@ Close out with sources used, what changed, what was verified, and what remains u
 ## Deliverable
 
 A completed [portfolio-template.md](portfolio-template.md).
+
+## Finish Line
+
+You are done when the portfolio feels like something you could hand to a colleague and say, "Here is the task, the evidence, the boundary, the check, and the next step." That is the payoff of the full tutorial.
 
 ## Self-Check
 

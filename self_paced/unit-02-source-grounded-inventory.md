@@ -14,6 +14,10 @@ Create an aggregate scientific software summary from synthetic inventory data.
 
 This unit models scientific software inventory work: remove common software noise, collapse closely related product families, rank by useful signals, and keep the output aggregate-only.
 
+## Why This Matters
+
+Messy software inventories are easy to drown in. This unit teaches you to turn noisy rows into a crisp scientific view a lab manager could actually use: what specialized tools appear, how broadly they appear, and what evidence supports the ranking.
+
 ## Materials
 
 - [../data/scientific_software_inventory.csv](../data/scientific_software_inventory.csv)
@@ -52,6 +56,10 @@ An aggregate table with:
 - Total runs.
 - Latest observed use.
 - Notes or uncertainty.
+
+## Finish Line
+
+You are done when the usual software noise has disappeared and the scientific software families stand out clearly. The satisfying moment is seeing a raw inventory become a decision-ready table.
 
 ## Self-Check
 
