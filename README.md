@@ -44,6 +44,17 @@ Use the full package:
 - Five practical exercises plus a capstone
 - Assessment rubric
 
+### 8-hour self-paced tutorial
+
+Use:
+
+- [self_paced/README.md](self_paced/README.md)
+- [self_paced/learner-guide.md](self_paced/learner-guide.md)
+- [self_paced/portfolio-template.md](self_paced/portfolio-template.md)
+- [self_paced/completion-checklist.md](self_paced/completion-checklist.md)
+
+This modality is self-sustained: each of the eight units is designed for one hour and includes goals, materials, pacing, starter prompts, deliverables, and self-checks.
+
 ### Train-the-trainer session
 
 Use:
@@ -60,6 +71,7 @@ Use:
 | [curriculum/](curriculum) | Instructor-facing lesson plans |
 | [exercises/](exercises) | Hands-on staff activities |
 | [handouts/](handouts) | Participant quick references |
+| [self_paced/](self_paced) | Complete 8-unit self-paced tutorial |
 | [templates/](templates) | Reusable work products |
 | [data/](data) | Synthetic practice data |
 | [assessment/](assessment) | Evaluation rubric and capstone criteria |

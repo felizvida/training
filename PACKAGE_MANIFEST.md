@@ -37,6 +37,11 @@ Participants should leave able to:
 | [handouts/task-idea-catalog.md](handouts/task-idea-catalog.md) | Concrete Codex-assisted task ideas by work type and staff role |
 | [handouts/privacy-and-verification-checklist.md](handouts/privacy-and-verification-checklist.md) | Pre-share checklist |
 | [exercises/](exercises) | Hands-on practice activities |
+| [self_paced/README.md](self_paced/README.md) | Complete 8-unit, 1-hour-each self-paced tutorial |
+| [self_paced/learner-guide.md](self_paced/learner-guide.md) | Learner instructions for asynchronous completion |
+| [self_paced/facilitator-admin-guide.md](self_paced/facilitator-admin-guide.md) | Admin guide for asynchronous cohorts |
+| [self_paced/portfolio-template.md](self_paced/portfolio-template.md) | Portfolio artifact for tutorial completion |
+| [self_paced/completion-checklist.md](self_paced/completion-checklist.md) | Completion and shareability checklist |
 | [templates/](templates) | Handoff, verification, and source memo templates |
 | [assessment/rubric.md](assessment/rubric.md) | Evaluation rubric |
 | [assessment/instructor-answer-key.md](assessment/instructor-answer-key.md) | Expected exercise results for facilitators |
@@ -53,3 +58,4 @@ The package uses synthetic data only. The sample files contain invented names, r
 - Update dates and tool references before live delivery.
 - Add site- or institute-specific policy language only after review by the relevant data owner.
 - Treat this repository itself as a task-gallery example: curriculum changes should update links, release notes, validation checks, and version tags together.
+- Keep the self-paced modality complete enough for a learner to finish without live facilitation.

@@ -1,5 +1,17 @@
 # Release Notes
 
+## v0.2.0 - Complete Self-Paced Tutorial Modality
+
+Added:
+
+- Complete 8-unit self-paced tutorial, with each unit designed for one hour.
+- Learner guide, facilitator/admin guide, portfolio template, and completion checklist.
+- Unit-level goals, materials, pacing, starter prompts, deliverables, and self-checks.
+
+Updated:
+
+- README and package manifest now list the self-paced modality as a supported delivery path.
+
 ## v0.1.3 - Experience-Anchored Task Ideas
 
 Added:
