@@ -27,6 +27,7 @@ Codex is most useful when a task has:
 | Documentation cleanup | Turn scattered notes into a durable runbook or user guide | Markdown docs, checklist, index updates | Link checks, fresh-reader review |
 | Restart handoff | Record enough context for another staff member or new Codex thread to continue | Handoff document | Exact paths, commands, validation status |
 | Lessons learned | Produce a concise, sanitized source memo from operational work | GitHub-safe memo | Secret scan, source caveats |
+| Memory and skills stewardship | Convert durable Codex context or reusable instructions into a sanitized training pattern | Scenario, checklist, prompt recipe | Privacy scan, current-evidence reminder |
 | Code review | Review a change for bugs, regressions, missing tests, and operational risk | Findings-first review | File/line references, test gaps |
 | Test and CI hardening | Add or improve lint, coverage, unit, integration, or browser checks using existing repo patterns | CI config, test files, coverage baseline | Local quality gate and CI status |
 | App usability polish | Improve feedback, dirty-state cues, navigation, or result surfacing in an internal tool | UI changes, docs, tests | Browser smoke, Playwright, screenshots |
@@ -68,7 +69,7 @@ This training is anchored on concrete project patterns from the package owner's 
 - Workflow status checks grounded in actual run state, commits, or artifacts.
 - Local-first identity or role lookup with unresolved cases kept explicit.
 - App usability, testing, CI, and documentation improvements.
-- Restart handoffs, source memos, release notes, and this training repo's own maintenance.
+- Restart handoffs, source memos, sanitized memory/skill patterns, release notes, and this training repo's own maintenance.
 
 ## Brief Additional Ideas For Scientific Staff And Researchers
 

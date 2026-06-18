@@ -6,7 +6,7 @@ Codex Training Package for Scientific Staff
 
 ## Version
 
-Current local package, 2026-06-17.
+Current local package, 2026-06-18.
 
 ## Intended Outcomes
 
@@ -17,6 +17,7 @@ Participants should leave able to:
 - Briefly recognize additional ways scientific staff and researchers can use Codex, while keeping the training anchored on the package owner's project patterns.
 - Shape messy scientific-support data into concise, source-grounded summaries.
 - Keep private source details out of shared outputs.
+- Distinguish raw Codex memory and skills from sanitized training resources.
 - Use repo runbooks, scripts, and verification steps instead of ad hoc methods.
 - Record enough paths, commands, checks, and caveats for another person to resume the work.
 
@@ -36,6 +37,7 @@ Participants should leave able to:
 | [handouts/prompt-patterns.md](handouts/prompt-patterns.md) | Reusable prompt recipes |
 | [handouts/task-idea-catalog.md](handouts/task-idea-catalog.md) | Concrete Codex-assisted task ideas by work type and staff role |
 | [handouts/privacy-and-verification-checklist.md](handouts/privacy-and-verification-checklist.md) | Pre-share checklist |
+| [handouts/memory-and-skills-resource.md](handouts/memory-and-skills-resource.md) | Safe explanation of Codex memory, skills, and sanitized reuse |
 | [exercises/](exercises) | Hands-on practice activities |
 | [self_paced/README.md](self_paced/README.md) | Complete 8-unit, 1-hour-each self-paced tutorial |
 | [self_paced/learner-guide.md](self_paced/learner-guide.md) | Learner instructions for asynchronous completion |
@@ -60,3 +62,4 @@ The package uses synthetic data only. The sample files contain invented names, r
 - Add site- or institute-specific policy language only after review by the relevant data owner.
 - Treat this repository itself as a task-gallery example: curriculum changes should update links, release notes, validation checks, and version tags together.
 - Keep the self-paced modality complete enough for a learner to finish without live facilitation.
+- Never publish raw Codex memory, rollout summaries, skills, or transcripts as training assets; convert them into sanitized patterns first.

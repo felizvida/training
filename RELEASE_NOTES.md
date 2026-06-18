@@ -1,5 +1,17 @@
 # Release Notes
 
+## v0.2.3 - Memory And Skills Resource
+
+Added:
+
+- Safe handout explaining where Codex memory and skills live conceptually.
+- Guidance on using memory and skills as sanitized training patterns rather than raw public resources.
+- Unit 7 and self-paced navigation links for learners who want to convert prior workflows into reusable prompts or checklists.
+
+Updated:
+
+- README, manifest, task catalog, quickstart, and privacy checklist to include memory/skills stewardship as a training repo example.
+
 ## v0.2.2 - Self-Paced Motivation Pass
 
 Added:

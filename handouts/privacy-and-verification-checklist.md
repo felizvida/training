@@ -10,6 +10,7 @@ Use this before sharing a Codex-generated output.
 - [ ] Are uncertain people, labs, roles, or ownership records labeled as unresolved or ambiguous?
 - [ ] Are historical/user-reported facts separated from current authoritative facts?
 - [ ] Are secrets, passwords, tokens, and private notes excluded?
+- [ ] Are raw Codex memory files, rollout summaries, skills, and transcripts excluded unless explicitly approved for a restricted audience?
 
 ## Source Boundary
 
@@ -17,6 +18,7 @@ Use this before sharing a Codex-generated output.
 - [ ] Did Codex avoid unauthorized websites or live systems?
 - [ ] Did Codex state which source files, tables, columns, scripts, or outputs it used?
 - [ ] Did Codex distinguish install evidence, observation evidence, and usage evidence?
+- [ ] Did Codex treat memory as background context rather than current evidence?
 
 ## Verification
 
@@ -32,4 +34,3 @@ Use this before sharing a Codex-generated output.
 - [ ] Is the artifact concise enough for the intended audience?
 - [ ] Could another staff member reproduce the result from the note?
 - [ ] Is the answer framed as current only if current evidence was actually checked?
-

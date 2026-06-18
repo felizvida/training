@@ -37,6 +37,7 @@ Close out with what you used, what changed, what was verified, and what remains 
 - Separate renewal or action items from planning adjustments.
 - Check the actual status of a workflow or job.
 - Turn notes into a sanitized handoff or lessons-learned memo.
+- Turn a recurring memory or skill pattern into a sanitized checklist.
 - Review a small code or documentation change for risks.
 - Create training examples, synthetic data, and an answer key.
 - Improve a training repo by adding examples, checking links, and writing release notes.
@@ -46,6 +47,7 @@ Close out with what you used, what changed, what was verified, and what remains 
 - Generic summaries that do not cite the local evidence.
 - Polished reports that include private source details.
 - Answers that treat ambiguous identity or ownership as certain.
+- Training examples copied from raw memory, transcripts, or skills without sanitizing them.
 - Totals that mix renewals, adjustments, and non-software costs.
 - Status reports that infer success without checking the actual workflow.
 

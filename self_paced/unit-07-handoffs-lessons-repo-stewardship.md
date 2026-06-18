@@ -8,11 +8,11 @@ Portfolio section: Unit 7
 
 ## Goal
 
-Create a reusable handoff or source memo, and understand this training repo as a Codex-assisted work product.
+Create a reusable handoff or source memo, understand this training repo as a Codex-assisted work product, and learn how memory or skill patterns can be shared safely.
 
 ## Anchored Experience
 
-This unit models durable restart notes, GitHub-safe source memos, release notes, and the training repository's own maintenance as a legitimate Codex task.
+This unit models durable restart notes, GitHub-safe source memos, sanitized memory/skill patterns, release notes, and the training repository's own maintenance as a legitimate Codex task.
 
 ## Why This Matters
 
@@ -24,6 +24,7 @@ Good work should survive the end of a chat, a meeting, or a week away. This unit
 - [../templates/restart-handoff-template.md](../templates/restart-handoff-template.md)
 - [../templates/source-memo-template.md](../templates/source-memo-template.md)
 - [../exercises/exercise-04-restart-handoff.md](../exercises/exercise-04-restart-handoff.md)
+- [../handouts/memory-and-skills-resource.md](../handouts/memory-and-skills-resource.md)
 - [../RELEASE_NOTES.md](../RELEASE_NOTES.md)
 
 ## 60-Minute Plan
@@ -32,7 +33,7 @@ Good work should survive the end of a chat, a meeting, or a week away. This unit
 | --- | --- |
 | 0-10 min | Read the handoff module |
 | 10-20 min | Review the handoff and source memo templates |
-| 20-40 min | Draft a handoff or source memo |
+| 20-40 min | Draft a handoff, source memo, or sanitized memory/skill pattern |
 | 40-50 min | Check for privacy and reproducibility |
 | 50-60 min | Save artifact to portfolio |
 
@@ -50,6 +51,7 @@ One of:
 
 - Restart handoff.
 - Source memo.
+- Sanitized memory/skill pattern.
 - Training repo stewardship note.
 
 ## Finish Line

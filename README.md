@@ -29,6 +29,7 @@ Use:
 - [handouts/task-idea-catalog.md](handouts/task-idea-catalog.md)
 - [handouts/prompt-patterns.md](handouts/prompt-patterns.md)
 - [handouts/privacy-and-verification-checklist.md](handouts/privacy-and-verification-checklist.md)
+- [handouts/memory-and-skills-resource.md](handouts/memory-and-skills-resource.md)
 - [exercises/exercise-01-scientific-inventory.md](exercises/exercise-01-scientific-inventory.md)
 
 ### Half-day workshop
@@ -91,4 +92,4 @@ The point is not to make staff memorize commands. The point is to help them ask 
 
 ## Task-Idea Emphasis
 
-Trainees should leave with a concrete sense of what Codex can help with in their own work. Use [handouts/task-idea-catalog.md](handouts/task-idea-catalog.md) and [exercises/exercise-05-task-triage.md](exercises/exercise-05-task-triage.md) to move beyond generic writing prompts into practical workflows anchored on the package owner's experience: scientific software summaries, snapshot comparisons, renewal planning, local data refreshes, workflow status checks, identity-resolution caveats, app and test improvements, restart handoffs, sanitized lessons learned, and the ongoing maintenance of this training repository itself. Brief staff/researcher examples are included for context only.
+Trainees should leave with a concrete sense of what Codex can help with in their own work. Use [handouts/task-idea-catalog.md](handouts/task-idea-catalog.md), [handouts/memory-and-skills-resource.md](handouts/memory-and-skills-resource.md), and [exercises/exercise-05-task-triage.md](exercises/exercise-05-task-triage.md) to move beyond generic writing prompts into practical workflows anchored on the package owner's experience: scientific software summaries, snapshot comparisons, renewal planning, local data refreshes, workflow status checks, identity-resolution caveats, app and test improvements, restart handoffs, sanitized lessons learned, reusable memory/skill patterns, and the ongoing maintenance of this training repository itself. Brief staff/researcher examples are included for context only.

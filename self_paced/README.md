@@ -11,6 +11,7 @@ It is anchored on the package owner's project patterns:
 - Workflow status checks grounded in actual state.
 - Local-first identity and role lookup with unresolved cases kept explicit.
 - App usability, testing, documentation, handoffs, source memos, and release notes.
+- Sanitizing memory and skills into reusable training patterns without publishing raw private context.
 - This training repository's own maintenance as a Codex-assisted workflow.
 
 Brief examples for other scientific staff and researchers appear only as optional context.
@@ -37,6 +38,7 @@ Learners can complete the tutorial alone, with or without an instructor present.
 - This repository.
 - A Markdown viewer or text editor.
 - The synthetic CSV files in [../data](../data).
+- The memory and skills safety handout: [../handouts/memory-and-skills-resource.md](../handouts/memory-and-skills-resource.md).
 - Optional: access to Codex for live practice.
 
 If a learner does not have live Codex access, they can still complete the tutorial by writing the prompts, expected outputs, verification plans, and handoffs manually.
